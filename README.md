@@ -26,7 +26,7 @@ To build a dynamic, seamless, and intelligent platform that enables global, imme
 - `Eventopia_Presentation.pptx`: Complete presentation deck with product roadmap, features, business model, and UI mockups
 - `Eventopia_Presentation.pdf`: PDF version of the Eventopia Presentation.
 
-## 🧠 Innovation Highlights
+## Innovation Highlights
 
 - Metaverse Events (Fashion shows, product launches)
 - Sustainability tracking and green partnerships

@@ -23,8 +23,8 @@ To build a dynamic, seamless, and intelligent platform that enables global, imme
 
 ## Files Included
 
-- `Eventopia_Presentation.pptx`: Complete presentation deck with product roadmap, features, business model, and UI mockups
-- `Eventopia_Presentation.pdf`: PDF version of the Eventopia Presentation.
+- `Eventopia_Presentation_Group10.pptx`: Complete presentation deck with product roadmap, features, business model, and UI mockups
+- `Eventopia_Presentation_Group10.pdf`: PDF version of the Eventopia Presentation.
 
 ## Innovation Highlights
 
